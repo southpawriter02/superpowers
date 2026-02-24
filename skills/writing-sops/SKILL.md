@@ -116,14 +116,15 @@ digraph sop_writing {
 2. **Gather the steps** — interview operators, read existing docs, trace the actual process
 3. **Walk through it yourself** — verify every command, check every output
 4. **Write the draft** — follow the document structure above
-5. **Verify completeness:**
+5. **Verify codebase claims** — **REQUIRED SUB-SKILL:** Use superpowers:writing-doc-reviews to verify all commands, file paths, and expected outputs against actual code
+6. **Verify completeness:**
    - Every step has an expected result
    - Every step has failure handling ("if this fails...")
    - Prerequisites are complete (nothing assumed)
    - Rollback steps are documented
    - Verification section confirms success
-6. **Review with an operator** — someone who'll actually use it
-7. **Save** — commit to `docs/sops/YYYY-MM-DD-<procedure>.md` or `docs/runbooks/`
+7. **Review with an operator** — someone who'll actually use it
+8. **Save** — commit to `docs/sops/YYYY-MM-DD-<procedure>.md` or `docs/runbooks/`
 
 ## Writing Rules for SOPs
 

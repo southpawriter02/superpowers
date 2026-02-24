@@ -201,6 +201,7 @@ digraph changelog {
 8. **Cross-reference** — Tier 1 entries link to Tier 2 sections; both link to issues/PRs
 9. **Review** — verify accuracy with someone who worked on the changes
 10. **Save** — commit both `CHANGELOG.md` and `docs/changelogs/vX.Y.Z.md`
+11. **Verify claims** — **REQUIRED SUB-SKILL:** Use superpowers:writing-doc-reviews to verify interface names, config references, and behavioral claims
 
 ## Category Definitions
 

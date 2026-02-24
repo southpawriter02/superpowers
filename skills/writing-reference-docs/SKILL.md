@@ -63,6 +63,7 @@ digraph reference_docs {
 5. **Check readability** — run through the readability checklist
 6. **Review** — present to user, iterate
 7. **Save** — commit to appropriate docs location
+8. **Verify** — **REQUIRED SUB-SKILL:** Use superpowers:writing-doc-reviews to verify all codebase claims with evidence
 
 ## Doc Type Templates
 

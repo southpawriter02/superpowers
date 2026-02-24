@@ -259,14 +259,15 @@ digraph scope_breakdown {
 5. **Write user stories** — who benefits and why for each deliverable
 6. **Group into phases** — logical ordering with sub-part IDs and target dates
 7. **Map dependencies** — internal, external, packages; mark status
-8. **Add acceptance criteria** — Given/When/Then for every deliverable
-9. **Estimate effort** — implementation checklist with hours per task
-10. **Assess risks** — likelihood, impact, mitigation for each phase
-11. **Define success metrics** — measurable targets with verification method
-12. **Add verification plan** — exact commands, test requirements, QA criteria
-13. **Pre-write changelog** — draft the changelog entry for when it ships
-14. **Review** — present to stakeholder, iterate until aligned
-15. **Save** — commit to `docs/scoping/YYYY-MM-DD-<initiative>.md`
+8. **Verify interface references** — when referencing existing interfaces or code, **REQUIRED SUB-SKILL:** Use superpowers:writing-doc-reviews to verify those references exist as described
+9. **Add acceptance criteria** — Given/When/Then for every deliverable
+10. **Estimate effort** — implementation checklist with hours per task
+11. **Assess risks** — likelihood, impact, mitigation for each phase
+12. **Define success metrics** — measurable targets with verification method
+13. **Add verification plan** — exact commands, test requirements, QA criteria
+14. **Pre-write changelog** — draft the changelog entry for when it ships
+15. **Review** — present to stakeholder, iterate until aligned
+16. **Save** — commit to `docs/scoping/YYYY-MM-DD-<initiative>.md`
 
 ## Granularity Guide
 

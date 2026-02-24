@@ -200,10 +200,11 @@ Don't over-document a config change. Don't under-document a new service.
 2. **Clarify the problem** — ask questions to understand scope, constraints, stakeholders
 3. **Explore at least 2 solutions** — with honest trade-off analysis
 4. **Write the spec** — include all sections appropriate for the complexity level
-5. **Define development standards** — changelog, logging, testing, dependencies
-6. **Add acceptance criteria** — numbered, testable, with verification method
-7. **Present section by section** — get approval incrementally
-8. **Save** — commit to `docs/specs/YYYY-MM-DD-<topic>.md`
+5. **Verify existing code references** — when the spec references existing code, **REQUIRED SUB-SKILL:** Use superpowers:writing-doc-reviews to verify those references
+6. **Define development standards** — changelog, logging, testing, dependencies
+7. **Add acceptance criteria** — numbered, testable, with verification method
+8. **Present section by section** — get approval incrementally
+9. **Save** — commit to `docs/specs/YYYY-MM-DD-<topic>.md`
 
 ## Common Mistakes
 

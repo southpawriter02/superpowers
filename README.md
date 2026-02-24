@@ -122,7 +122,7 @@ Start a new session in your chosen platform and ask for something that should tr
 - **writing-reference-docs** - User-facing guides, API docs, help portals
 - **writing-changelogs** - Two-tier changelogs: root summaries and detailed version docs
 - **writing-sops** - Standard operating procedures and runbooks
-- **writing-doc-reviews** - Documentation review and audit
+- **writing-doc-reviews** - Documentation review with mandatory codebase evidence verification
 
 **Meta**
 
